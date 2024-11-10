@@ -52,7 +52,8 @@ GATEWAY:
 ![image](https://github.com/user-attachments/assets/5d99e5fa-c739-46ef-8ecb-753df7ec48d5)
 
 CHANNEL:
-[Add a heading.pdf](https://github.com/user-attachments/files/17691143/Add.a.heading.pdf)
+![image](https://github.com/user-attachments/assets/628ab6bb-f2f3-4003-a782-6c60b3ba7d6f)
+
 
 
 END DEVICE:
